@@ -9,10 +9,8 @@
 - Wrote my own SPA framework in Javascript
 - Made an app with React and Firebase
 - Made some nodejs servers
-- Now working on C and making a programming language
-
-## PS:
-I would like to make a compiler, but there aren't many tutorials. Does anyone have a suggestion for a tuturial? Youtube video/book/website?
+- Made a scripting language in C
+- Busy on a compiler @pieterdepiet/compiler
 
 <!---
 pieterdepiet/pieterdepiet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
